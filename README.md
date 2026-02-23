@@ -139,5 +139,3 @@ plt.show()
 # Results
 
 Thus, the ASK and FSK performed using python in VS Code
-
-# Hardware experiment output waveform.
