@@ -2,7 +2,10 @@
 # Aim
 Write a simple Python program for the modulation and demodulation of ASK and FSK.
 # Tools required
+
+*VS Code
 # Program
+##ASK
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -52,7 +55,7 @@ plt.title('Decoded Bits')
 plt.tight_layout()
 plt.show()
 ```
-
+#PSK
 ```
 import numpy as np
 import matplotlib.pyplot as plt
@@ -124,14 +127,17 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
+##ASK
 
 <img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/e5f6dba5-f976-4cdf-8e42-a33d170fc170" />
+
+##PSK
 
 <img width="1919" height="1136" alt="image" src="https://github.com/user-attachments/assets/46ec2133-a139-4765-a0a5-44ef6e7c7b10" />
 
 
 # Results
-```
-Attach the output waveform
-```
+
+Thus, the ASK and FSK performed using python in VS Code
+
 # Hardware experiment output waveform.
